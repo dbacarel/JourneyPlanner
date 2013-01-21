@@ -1,0 +1,120 @@
+Terravision|1234567
+-|Pisa|0:20
+1:20|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|8:40
+9:50|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|9:50
+11:00|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|10:30
+11:40|Firenze S. M. Novella|11:45
+12:00|Firenze|-
+
+Terravision|1234567
+-|Pisa|10:30
+11:40|Firenze S. M. Novella|11:45
+12:00|Firenze|-
+
+Terravision|1234567
+-|Pisa|12:00
+13:10|Firenze S. M. Novella|13:15
+13:30|Firenze|-
+
+Terravision|1234567
+-|Pisa|12:45
+13:55|Firenze S. M. Novella|14:00
+14:15|Firenze|-
+
+Terravision|1234567
+-|Pisa|15:10
+16:20|Firenze S. M. Novella|16:25
+16:40|Firenze|-
+
+Terravision|1234567
+-|Pisa|16:10
+17:20|Firenze S. M. Novella|17:25
+17:40|Firenze|-
+
+Terravision|1234567
+-|Pisa|17:40
+18:50|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|19:15
+20:25|Firenze S. M. Novella|20:30
+20:45|Firenze|-
+
+Terravision|1234567
+-|Pisa|20:45
+21:45|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|20:45
+21:45|Firenze S. M. Novella|-
+
+Terravision|1234567
+-|Pisa|23:15
+00:15|Firenze S. M. Novella|00:18
+00:25|Firenze|-
+
+Terravision|1234567
+-|Firenze S. M. Novella|3:35
+4:35|Pisa|-
+
+Terravision|1234567
+-|Firenze|5:30
+5:50|Firenze S. M. Novella|5:55
+7:00|Pisa|-
+
+Terravision|1234567
+-|Firenze|6:45
+7:00|Firenze S. M. Novella|7:05
+8:10|Pisa|-
+
+Terravision|1234567
+-|Firenze|8:10
+8:30|Firenze S. M. Novella|8:35
+9:40|Pisa|-
+
+Terravision|1234567
+-|Firenze S. M. Novella|9:50
+11:00|Pisa|-
+
+Terravision|1234567
+-|Firenze S. M. Novella|11:30
+12:40|Pisa|-
+
+Terravision|1234567
+-|Firenze|12:10
+12:30|Firenze S. M. Novella|12:35
+13:40|Pisa|-
+
+Terravision|1234567
+-|Firenze|14:15
+14:30|Firenze S. M. Novella|14:35
+15:40|Pisa|-
+
+Terravision|1234567
+-|Firenze|15:40
+16:00|Firenze S. M. Novella|16:05
+17:10|Pisa|-
+
+Terravision|1234567
+-|Firenze|17:25
+17:45|Firenze S. M. Novella|17:50
+18:55|Pisa|-
+
+Terravision|1234567
+-|Firenze|18:25
+18:45|Firenze S. M. Novella|18:50
+19:55|Pisa|-
+
+Terravision|1234567
+-|Firenze S. M. Novella|19:10
+20:20|Pisa|-
+

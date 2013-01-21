@@ -1,0 +1,75 @@
+R2336|1234567
+-|Roma Termini|06:09
+06:18|Roma Ostiense|06:19
+06:23|Roma Trastevere|06:24
+06:28|Roma S. Pietro|06:29
+06:48|Ladispoli-Cerveteri|06:49
+06:53|Marina Di Cerveteri|06:54
+07:04|S. Marinella|07:05
+07:13|Civitavecchia|07:15
+07:28|Tarquinia|07:29
+07:38|Montalto Di Castro|07:39
+07:52|Capalbio|07:53
+08:01|Orbetello-Monte Argentario|08:02
+08:07|Albinia|08:08
+08:26|Grosseto|08:28
+08:35|Montepescali|08:36
+08:53|Follonica|08:54
+09:04|Campiglia Marittima|09:05
+09:12|S. Vincenzo|09:13
+09:27|Cecina|09:28
+09:35|Rosignano|09:36
+09:57|Livorno Centrale|10:00
+10:15|Pisa Centrale|-
+
+ES9790|1234567
+-|Roma Termini|07:58
+08:42|Civitavecchia|08:44
+09:18|Orbetello-Monte Argentario|09:19
+09:36|Grosseto|09:38
+09:57|Follonica|09:58
+10:20|Cecina|10:21
+10:40|Livorno Centrale|10:42
+10:57|Pisa Centrale|-
+
+IC516|1234567
+-|Roma Termini|09:46
+09:55|Roma Ostiense|09:57
+10:35|Civitavecchia|10:37
+11:27|Grosseto|11:30
+11:50|Follonica|11:51
+12:40|Livorno Centrale|12:42
+12:57|Pisa Centrale|-
+
+R2338|1234567
+-|Roma Termini|10:09
+10:18|Roma Ostiense|10:19
+10:23|Roma Trastevere|10:24
+10:28|Roma S. Pietro|10:29
+10:48|Ladispoli-Cerveteri|10:49
+10:53|Marina Di Cerveteri|10:54
+11:04|S. Marinella|11:05
+11:13|Civitavecchia|11:15
+11:28|Tarquinia|11:29
+11:38|Montalto Di Castro|11:39
+11:52|Capalbio|11:53
+12:01|Orbetello-Monte Argentario|12:02
+12:07|Albinia|12:08
+12:26|Grosseto|12:28
+12:35|Montepescali|12:36
+12:53|Follonica|12:54
+13:04|Campiglia Marittima|13:05
+13:12|S. Vincenzo|13:13
+13:27|Cecina|13:28
+13:35|Rosignano|13:36
+13:57|Livorno Centrale|14:10
+14:15|Pisa Centrale|-
+
+ES9794|1234567
+-|Roma Termini|12:02
+12:46|Civitavecchia|12:48
+13:37|Grosseto|13:39
+14:04|Campiglia Marittima|14:15
+14:40|Livorno Centrale|14:52
+14:57|Pisa Centrale|-
+

@@ -1,0 +1,212 @@
+Tirrenia|1
+-|Arbatax|15:00
+7:15|Genova|-
+
+Moby|12
+-|Bonifacio|8:30
+9:20|Santa Teresa|-
+
+Moby|123
+-|Bonifacio|13:00
+13:50|Santa Teresa|-
+
+Moby|1234567
+-|Bonifacio|17:00
+17:50|Santa Teresa|-
+
+Moby|1234567
+-|Bonifacio|20:30
+21:20|Santa Teresa|-
+
+Tirrenia|1234567
+-|Cagliari|18:00
+8:30|Civitavecchia|-
+
+Dimaiolines|1234567
+-|Cagliari|17:30
+10:30|Napoli|-
+
+Tirrenia|1234567
+-|Civitavecchia|18:30
+9:00|Cagliari|-
+
+Tirrenia|1234567
+-|Civitavecchia|8:30
+13:30|Olbia1|-
+
+Snav|1234567
+-|Civitavecchia|11:00
+18:00|Olbia2|-
+
+Moby|1234567
+-|Civitavecchia|15:00
+19:45|Olbia3|-
+
+Tirrenia|1234567
+-|Civitavecchia|15:00
+20:00|Olbia4|-
+
+Moby|1234567
+-|Civitavecchia|22:00
+8:00|Olbia5|-
+
+Snav|1234567
+-|Civitavecchia|22:00
+6:00|Olbia6|-
+
+Tirrenia|1234567
+-|Civitavecchia|23:59
+6:30|Olbia7|-
+
+Grimaldi Ferries|1234567
+-|Civitavecchia|22:15
+5:30|Porto Torres|-
+
+Grandi Navi Veloci|1234567
+-|Genova|21:30
+7:30|Olbia|-
+
+Moby|1234567
+-|Genova|22:00
+7:30|Olbia|-
+
+Tirrenia|1234567
+-|Genova|20:30
+6:30|Porto Torres|-
+
+Grandi Navi Veloci|1234567
+-|Genova|21:00
+8:00|Porto Torres|-
+
+Moby|1234567
+-|Genova|22:00
+8:00|Porto Torres|-
+
+Sardinia Ferries|1234567
+-|Golfo Aranci|8:00
+13:15|Civitavecchia|-
+
+Sardinia Ferries|1234567
+-|Golfo Aranci|15:30
+21:45|Livorno|-
+
+Sardinia Ferries|1234567
+-|Golfo Aranci|21:00
+7:00|Livorno|-
+
+Sardinia Ferries|1234567
+-|Livorno|8:00
+14:30|Golfo Aranci|-
+
+Sardinia Ferries|1234567
+-|Livorno|23:00
+7:00|Golfo Aranci|-
+
+Moby|1234567
+-|Livorno|8:00
+13:55|Olbia|-
+
+Moby|1234567
+-|Livorno|21:30
+8:00|Olbia|-
+
+Moby|1234567
+-|Livorno|23:30
+6:30|Olbia|-
+
+Tirrenia|1234567
+-|Olbia|8:30
+13:30|Civitavecchia|-
+
+Moby|1234567
+-|Olbia|9:00
+13:45|Civitavecchia|-
+
+Snav|1234567
+-|Olbia|11:00
+18:00|Civitavecchia|-
+
+Moby|1234567
+-|Olbia|12:00
+19:00|Civitavecchia|-
+
+Tirrenia|1234567
+-|Olbia|15:00
+20:00|Civitavecchia|-
+
+Snav|1234567
+-|Olbia|22:00
+6:00|Civitavecchia|-
+
+Tirrenia|1234567
+-|Olbia|23:59
+6:30|Civitavecchia|-
+
+Grandi Navi Veloci|1234567
+-|Olbia|10:00
+20:00|Genova|-
+
+Tirrenia|1234567
+-|Olbia|21:30
+7:15|Genova|-
+
+Moby|1234567
+-|Olbia|22:00
+7:30|Genova|-
+
+Moby|1234567
+-|Olbia|10:00
+17:00|Livorno|-
+
+Moby|1234567
+-|Olbia|12:00
+19:15|Livorno|-
+
+Moby|1234567
+-|Olbia|15:30
+22:25|Livorno|-
+
+Moby|1234567
+-|Olbia|22:00
+6:30|Livorno|-
+
+Moby|1234567
+-|Olbia|8:00
+12:30|Piombino|-
+
+Moby|1234567
+-|Piombino|14:30
+19:00|Olbia|-
+
+Grimaldi Ferries|1234567
+-|Porto Torres|11:30
+18:45|Civitavecchia|-
+
+Moby|1234567
+-|Porto Torres|10:00
+20:00|Genova|-
+
+Tirrenia|1234567
+-|Porto Torres|20:30
+6:30|Genova|-
+
+Grandi Navi Veloci|1234567
+-|Porto Torres|21:00
+8:00|Genova|-
+
+Moby|1234567
+-|Santa Teresa|7:00
+7:50|Bonifacio|-
+
+Moby|1234567
+-|Santa Teresa|10:00
+10:50|Bonifacio|-
+
+Moby|1234567
+-|Santa Teresa|15:10
+16:00|Bonifacio|-
+
+Moby|1234567
+-|Santa Teresa|19:00
+19:50|Bonifacio|-
+

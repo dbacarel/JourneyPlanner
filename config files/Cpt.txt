@@ -1,0 +1,504 @@
+CPT LAM rossa|123456
+-|Pisa|6:00
+6:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|6:20
+6:25|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|6:40
+6:45|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|7:00
+7:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|7:15
+7:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|7:30
+7:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|7:45
+7:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|8:00
+8:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|8:15
+8:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|8:30
+8:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|8:45
+8:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|9:00
+9:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|9:15
+9:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|9:30
+9:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|9:45
+9:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|10:00
+10:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|10:15
+10:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|10:30
+10:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|10:45
+10:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|11:00
+11:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|11:15
+11:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|11:30
+11:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|11:45
+11:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|12:00
+12:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|12:15
+12:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|12:30
+12:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|12:45
+12:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|13:00
+13:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|13:15
+13:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|13:30
+13:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|13:45
+13:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|14:03
+14:08|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|14:21
+14:25|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|14:39
+14:44|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|14:57
+15:02|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|15:15
+15:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|15:33
+15:38|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|15:51
+15:56|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|16:09
+16:13|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|16:27
+16:32|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|16:45
+16:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|17:00
+17:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|17:15
+17:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|17:30
+17:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|17:45
+17:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|18:00
+18:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|18:15
+18:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|18:30
+18:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|18:45
+18:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|19:00
+19:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|19:15
+19:20|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|19:30
+19:35|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|19:45
+19:50|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|20:00
+20:05|Pisa Centrale|-
+
+CPT LAM rossa|123456
+-|Pisa|20:15
+20:20|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|20:36
+20:41|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|21:06
+21:11|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|21:36
+21:41|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|22:06
+22:11|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|22:36
+22:41|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|23:06
+23:11|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|23:31
+23:36|Pisa Centrale|-
+
+CPT 21|123456
+-|Pisa|00:01
+00:06|Pisa Centrale|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|5:55
+6:00|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|6:15
+6:20|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|6:39
+6:44|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|6:59
+7:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|7:19
+7:24|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|7:39
+7:44|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|7:55
+7:59|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|8:09
+8:14|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|8:24
+8:29|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|8:44
+8:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|8:59
+9:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|9:14
+9:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|9:29
+9:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|9:44
+9:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|9:59
+10:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|10:14
+10:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|10:29
+10:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|10:44
+10:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|10:59
+11:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|11:14
+11:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|11:29
+11:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|11:44
+11:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|11:59
+12:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|12:14
+12:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|12:29
+12:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|12:44
+12:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|12:59
+13:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|13:14
+13:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|13:29
+13:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|13:44
+13:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|13:59
+14:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|14:14
+14:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|14:29
+14:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|14:47
+14:52|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|15:05
+15:10|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|15:23
+15:28|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|15:41
+15:46|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|15:59
+16:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|16:17
+16:22|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|16:35
+16:40|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|16:53
+16:58|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|17:11
+17:16|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|17:29
+17:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|17:44
+17:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|17:59
+18:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|18:14
+18:20|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|18:29
+18:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|18:44
+18:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|18:59
+19:04|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|19:14
+19:19|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|19:29
+19:34|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|19:44
+19:49|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|19:57
+20:02|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|20:12
+20:17|Pisa|-
+
+CPT LAM Rossa|123456
+-|Pisa Centrale|20:24
+20:29|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|20:31
+20:36|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|21:01
+21:06|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|21:26
+21:31|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|21:56
+22:01|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|22:26
+22:31|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|22:56
+23:01|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|23:26
+23:31|Pisa|-
+
+CPT 21|123456
+-|Pisa Centrale|23:56
+00:01|Pisa|-
+

@@ -1,0 +1,1639 @@
+FR 3595|1357
+-|Pisa|10:15
+12:20|Amburgo (Lubecca)|-
+
+FR 3595|26
+-|Pisa|09:35
+11:40|Amburgo (Lubecca)|-
+
+HV 5424|5
+-|Pisa|15:10
+17:15|Amsterdam|-
+
+HV 5424|7
+-|Pisa|17:05
+19:10|Amsterdam|-
+
+HV 5424|6
+-|Pisa|15:15
+17:20|Amsterdam|-
+
+HV 5424|1
+-|Pisa|14:50
+16:55|Amsterdam|-
+
+HV 5424|2
+-|Pisa|17:10
+19:15|Amsterdam|-
+
+HV 5424|3
+-|Pisa|16:35
+18:40|Amsterdam|-
+
+HV 5424|4
+-|Pisa|15:05
+17:10|Amsterdam|-
+
+HV 5424|234
+-|Pisa|14:35
+16:40|Amsterdam|-
+
+HV 5424|1
+-|Pisa|15:05
+17:10|Amsterdam|-
+
+HV 5424|6
+-|Pisa|16:40
+18:45|Amsterdam|-
+
+HV 5424|1234
+-|Pisa|14:35
+16:40|Amsterdam|-
+
+HV 5426|6
+-|Pisa|09:35
+11:40|Amsterdam|-
+
+VY 6135|12
+-|Pisa|18:25
+19:55|Barcellona|-
+
+VY 6135|1234
+-|Pisa|16:30
+18:00|Barcellona|-
+
+VY 6135|1234
+-|Pisa|09:50
+11:20|Barcellona|-
+
+FR 8861|1
+-|Pisa|15:25
+17:00|Barcellona (Girona)|-
+
+FR 8861|5
+-|Pisa|19:05
+20:40|Barcellona (Girona)|-
+
+FR 8861|5
+-|Pisa|19:05
+20:40|Barcellona (Girona)|-
+
+FR 9242|37
+-|Pisa|20:00
+21:30|Barcellona (Girona)|-
+
+FR 9242|156
+-|Pisa|20:15
+21:45|Barcellona (Girona)|-
+
+FR 9242|24
+-|Pisa|16:10
+17:40|Barcellona (Girona)|-
+
+LS 320|6
+-|Pisa|12:45
+14:20|Belfast|-
+
+LS 320|26
+-|Pisa|12:45
+14:20|Belfast|-
+
+LS 320|6
+-|Pisa|12:45
+14:20|Belfast|-
+
+U2 4578|7
+-|Pisa|10:05
+11:55|Berlino (Schoenefield)|-
+
+U2 4580|6
+-|Pisa|14:30
+16:20|Berlino (Schoenefield)|-
+
+U2 4580|123456
+-|Pisa|14:30
+16:20|Berlino (Schoenefield)|-
+
+U2 4582|123457
+-|Pisa|17:10
+19:00|Berlino (Schoenefield)|-
+
+U2 4582|7
+-|Pisa|17:10
+19:00|Berlino (Schoenefield)|-
+
+U2 4582|12345
+-|Pisa|17:10
+19:00|Berlino (Schoenefield)|-
+
+U2 4584|6
+-|Pisa|20:35
+22:25|Berlino (Schoenefield)|-
+
+FR 9331|1357
+-|Pisa|19:15
+21:25|Billund|-
+
+FR 9331|357
+-|Pisa|19:15
+21:25|Billund|-
+
+FR 9331|37
+-|Pisa|19:15
+21:25|Billund|-
+
+FR 5681|2
+-|Pisa|14:50
+16:15|Birmingham|-
+
+FR 5681|6
+-|Pisa|14:20
+15:45|Birmingham|-
+
+FR 563|3
+-|Pisa|10:35
+11:45|Bournemouth|-
+
+FR 563|6
+-|Pisa|09:45
+10:55|Bournemouth|-
+
+FR 9333|4
+-|Pisa|09:35
+11:10|Bratislava|-
+
+FR 9333|7
+-|Pisa|14:55
+16:30|Bratislava|-
+
+U2 6190|7
+-|Pisa|12:00
+13:15|Bristol|-
+
+U2 6190|123456
+-|Pisa|11:05
+12:20|Bristol|-
+
+FR 3746|12357
+-|Pisa|12:35
+14:25|Bruxelles (Charleroi)|-
+
+FR 3746|4
+-|Pisa|12:10
+14:05|Bruxelles (Charleroi)|-
+
+FR 3746|6
+-|Pisa|08:35
+10:30|Bruxelles (Charleroi)|-
+
+FR 3748|15
+-|Pisa|20:00
+21:50|Bruxelles (Charleroi)|-
+
+FR 3748|4
+-|Pisa|17:05
+18:55|Bruxelles (Charleroi)|-
+
+0B 906|5
+-|Pisa|15:00
+18:00|Bucarest|-
+
+0B 908|1
+-|Pisa|20:00
+23:00|Bucarest|-
+
+X3 3103|13
+-|Pisa|23:10
+00:50|Colonia-Bonn|-
+
+X3 3103|4
+-|Pisa|21:55
+23:35|Colonia-Bonn|-
+
+X3 3103|5
+-|Pisa|22:15
+23:55|Colonia-Bonn|-
+
+X3 3103|2
+-|Pisa|21:40
+23:20|Colonia-Bonn|-
+
+X3 3103|7
+-|Pisa|22:30
+00:10|Colonia-Bonn|-
+
+X3 3103|6
+-|Pisa|17:55
+19:35|Colonia-Bonn|-
+
+FR 9786|15
+-|Pisa|09:25
+12:45|Constanta|-
+
+DY 3621|3
+-|Pisa|12:10
+14:50|Copenaghen|-
+
+DY 3623|6
+-|Pisa|21:40
+00:20|Copenaghen|-
+
+HV 2766|24
+-|Pisa|11:45
+14:10|Copenaghen|-
+
+HV 2766|6
+-|Pisa|10:45
+13:10|Copenaghen|-
+
+FR 9907|37
+-|Pisa|17:55
+19:40|Dublino|-
+
+FR 9907|1
+-|Pisa|14:50
+16:35|Dublino|-
+
+FR 9907|246
+-|Pisa|17:30
+19:15|Dublino|-
+
+FR 9907|5
+-|Pisa|06:55
+08:40|Dublino|-
+
+FR 8054|1
+-|Pisa|14:15
+16:15|Dusseldorf-Weeze (Niederrhein)|-
+
+FR 8054|5
+-|Pisa|14:45
+16:55|Dusseldorf-Weeze (Niederrhein)|-
+
+FR 8896|246
+-|Pisa|11:50
+13:50|Dusseldorf-Weeze (Niederrhein)|-
+
+FR 1707|26
+-|Pisa|16:55
+18:15|East Midlands|-
+
+FR 1707|3
+-|Pisa|19:30
+20:50|East Midlands|-
+
+FR 1707|4
+-|Pisa|16:20
+17:40|East Midlands|-
+
+FR 2752|246
+-|Pisa|17:40
+19:25|Edimburgo|-
+
+LS 322|6
+-|Pisa|19:05
+20:50|Edimburgo|-
+
+LS 322|15
+-|Pisa|12:45
+14:30|Edimburgo|-
+
+FR 9923|2467
+-|Pisa|12:00
+13:55|Eindhoven|-
+
+FR 9923|15
+-|Pisa|10:00
+11:55|Eindhoven|-
+
+FR 9923|3
+-|Pisa|09:35
+11:30|Eindhoven|-
+
+FR 1235|135
+-|Pisa|16:35
+18:05|Francoforte (Hahn)|-
+
+FR 1235|246
+-|Pisa|11:50
+13:20|Francoforte (Hahn)|-
+
+FR 1235|7
+-|Pisa|12:50
+14:20|Francoforte (Hahn)|-
+
+FR 8884|5
+-|Pisa|15:25
+16:50|Francoforte (Hahn)|-
+
+FR 8884|1
+-|Pisa|19:25
+20:50|Francoforte (Hahn)|-
+
+FR 7847|1
+-|Pisa|11:15
+13:05|Glasgow (Prestwick)|-
+
+FR 7847|3
+-|Pisa|06:30
+08:20|Glasgow (Prestwick)|-
+
+FR 7847|6
+-|Pisa|10:30
+12:20|Glasgow (Prestwick)|-
+
+AY 798|5
+-|Pisa|10:50
+15:05|Helsinki|-
+
+AY 800|2
+-|Pisa|19:00
+23:15|Helsinki|-
+
+FR 8874|37
+-|Pisa|11:10
+12:55|Ibiza|-
+
+LS 368|7
+-|Pisa|12:40
+14:10|Leeds - Bradford|-
+
+LS 368|6
+-|Pisa|11:00
+12:30|Leeds - Bradford|-
+
+LS 368|4
+-|Pisa|12:20
+13:50|Leeds - Bradford|-
+
+LS 368|15
+-|Pisa|15:30
+17:00|Leeds - Bradford|-
+
+FR 8894|246
+-|Pisa|07:00
+09:00|Lilla|-
+
+U2 4164|6
+-|Pisa|17:30
+18:40|Lione|-
+
+U2 4164|3
+-|Pisa|08:45
+09:55|Lione|-
+
+FR 9627|37
+-|Pisa|14:30
+15:55|Liverpool|-
+
+FR 9627|1
+-|Pisa|07:45
+09:10|Liverpool|-
+
+FR 9627|246
+-|Pisa|06:30
+07:55|Liverpool|-
+
+BA 2601|1
+-|Pisa|12:05
+13:15|Londra (Gatwick)|-
+
+BA 2603|1
+-|Pisa|15:35
+16:45|Londra (Gatwick)|-
+
+BA 2605|1
+-|Pisa|21:25
+22:35|Londra (Gatwick)|-
+
+U2 5232|6
+-|Pisa|12:10
+13:20|Londra (Gatwick)|-
+
+U2 5234|7
+-|Pisa|16:10
+17:20|Londra (Gatwick)|-
+
+U2 5234|12345
+-|Pisa|14:50
+16:00|Londra (Gatwick)|-
+
+U2 5236|6
+-|Pisa|21:30
+22:40|Londra (Gatwick)|-
+
+U2 2304|6
+-|Pisa|10:00
+11:20|Londra (Luton)|-
+
+U2 2306|12345
+-|Pisa|12:20
+13:40|Londra (Luton)|-
+
+U2 2308|7
+-|Pisa|15:20
+16:40|Londra (Luton)|-
+
+FR 583|1
+-|Pisa|14:55
+16:15|Londra (Stansted)|-
+
+FR 585|6
+-|Pisa|10:10
+11:30|Londra (Stansted)|-
+
+FR 589|7
+-|Pisa|21:55
+23:10|Londra (Stansted)|-
+
+FR 589|1356
+-|Pisa|22:40
+23:55|Londra (Stansted)|-
+
+FR 589|24
+-|Pisa|22:15
+23:30|Londra (Stansted)|-
+
+FR 9353|3
+-|Pisa|06:25
+08:05|Maastricht|-
+
+FR 9353|5
+-|Pisa|19:15
+20:55|Maastricht|-
+
+FR 9353|7
+-|Pisa|12:35
+14:15|Maastricht|-
+
+IB 8823|1
+-|Pisa|12:45
+15:00|Madrid|-
+
+FR 9992|24
+-|Pisa|16:40
+18:20|Malta|-
+
+FR 9992|5
+-|Pisa|16:15
+17:55|Malta|-
+
+FR 9992|6
+-|Pisa|16:40
+18:20|Malta|-
+
+LS 884|2467
+-|Pisa|11:35
+13:05|Manchester|-
+
+LS 884|67
+-|Pisa|11:35
+13:05|Manchester|-
+
+FR 8876|37
+-|Pisa|16:05
+18:35|Marrakesh|-
+
+FR 8872|1357
+-|Pisa|07:00
+08:40|Memmingen|-
+
+LH/EN 4045|1
+-|Pisa|13:00
+14:45|Monaco|-
+
+LH/EN 4049|1
+-|Pisa|07:00
+08:45|Monaco|-
+
+DL 137|1
+-|Pisa|13:25
+17:05|New York (JFK)*|-
+
+LS 548|6
+-|Pisa|12:00
+13:35|Newcastle|-
+
+LS 548|7
+-|Pisa|15:05
+16:40|Newcastle|-
+
+DY 1867|13
+-|Pisa|13:35
+16:35|Oslo|-
+
+DY 1869|5
+-|Pisa|10:35
+13:40|Oslo|-
+
+FR 9311|246
+-|Pisa|06:15
+09:00|Oslo (Torp)|-
+
+FR 9311|7
+-|Pisa|06:15
+09:00|Oslo (Torp)|-
+
+FR 9976|7
+-|Pisa|07:40
+09:30|Parigi (Beauvais)|-
+
+FR 9976|134
+-|Pisa|16:10
+18:00|Parigi (Beauvais)|-
+
+FR 9976|25
+-|Pisa|16:25
+18:15|Parigi (Beauvais)|-
+
+FR 9976|6
+-|Pisa|15:55
+17:45|Parigi (Beauvais)|-
+
+AF 1067|1
+-|Pisa|07:35
+09:20|Parigi (Charles De Gaulle)|-
+
+AF 1567|1
+-|Pisa|13:15
+15:00|Parigi (Charles De Gaulle)|-
+
+AF 2167|1
+-|Pisa|18:00
+19:45|Parigi (Charles De Gaulle)|-
+
+U2 4210|7
+-|Pisa|09:15
+10:50|Parigi (Orly)|-
+
+U2 4210|6
+-|Pisa|09:00
+10:35|Parigi (Orly)|-
+
+U2 4210|6
+-|Pisa|20:55
+22:30|Parigi (Orly)|-
+
+U2 4210|12345
+-|Pisa|08:15
+09:50|Parigi (Orly)|-
+
+U2 4214|123457
+-|Pisa|20:55
+22:30|Parigi (Orly)|-
+
+U2 4214|7
+-|Pisa|20:55
+22:30|Parigi (Orly)|-
+
+U2 4214|12345
+-|Pisa|20:55
+22:30|Parigi (Orly)|-
+
+U2 4214|6
+-|Pisa|17:55
+19:30|Parigi (Orly)|-
+
+U2 4216|6
+-|Pisa|20:10
+21:45|Parigi (Orly)|-
+
+U2 4218|135
+-|Pisa|17:05
+18:40|Parigi (Orly)|-
+
+FR 6932|15
+-|Pisa|13:40
+15:30|Porto|-
+
+FR 9341|24
+-|Pisa|09:45
+12:20|Siviglia|-
+
+FR 9341|6
+-|Pisa|17:40
+20:15|Siviglia|-
+
+FR 1637|2
+-|Pisa|20:35
+23:30|Stoccolma (Skavsta)|-
+
+FR 1637|4
+-|Pisa|16:10
+19:05|Stoccolma (Skavsta)|-
+
+FR 1637|6
+-|Pisa|20:05
+23:00|Stoccolma (Skavsta)|-
+
+LZ 112|247
+-|Pisa|10:20
+12:00|Tirana|-
+
+LZ 112|6
+-|Pisa|10:20
+12:00|Tirana|-
+
+FR 9325|7
+-|Pisa|18:55
+20:55|Valencia|-
+
+FR 9325|135
+-|Pisa|15:15
+17:15|Valencia|-
+
+FR 8878|15
+-|Pisa|11:10
+12:40|Zara|-
+
+FR 9926|7
+-|Pisa|06:45
+07:55|Alghero|-
+
+FR 9926|145
+-|Pisa|06:20
+07:30|Alghero|-
+
+FR 9926|236
+-|Pisa|06:30
+07:40|Alghero|-
+
+FR 9928|2
+-|Pisa|20:45
+21:55|Alghero|-
+
+FR 9928|4
+-|Pisa|20:30
+21:40|Alghero|-
+
+FR 9944|1
+-|Pisa|21:10
+22:20|Alghero|-
+
+FR 9944|3
+-|Pisa|20:30
+21:40|Alghero|-
+
+FR 9944|5
+-|Pisa|20:45
+21:55|Alghero|-
+
+FR 9783|37
+-|Pisa|06:15
+07:40|Bari|-
+
+FR 9783|12456
+-|Pisa|06:25
+07:50|Bari|-
+
+FR 9788|246
+-|Pisa|20:55
+22:15|Bari|-
+
+FR 9931|157
+-|Pisa|15:35
+17:00|Cagliari|-
+
+FR 9931|246
+-|Pisa|12:35
+14:00|Cagliari|-
+
+FR 9931|3
+-|Pisa|15:30
+16:55|Cagliari|-
+
+FR 9933|246
+-|Pisa|20:00
+21:25|Cagliari|-
+
+IV 541|1
+-|Pisa|09:25
+10:55|Catania|-
+
+IV 547|1234
+-|Pisa|21:55
+23:25|Catania|-
+
+IV 547|5
+-|Pisa|22:05
+23:35|Catania|-
+
+IV 547|6
+-|Pisa|18:25
+19:55|Catania|-
+
+IV 547|7
+-|Pisa|16:15
+17:45|Catania|-
+
+FR 6936|7
+-|Pisa|10:00
+11:35|Lamezia Terme|-
+
+FR 6936|1
+-|Pisa|10:30
+12:05|Lamezia Terme|-
+
+FR 6936|3
+-|Pisa|12:55
+14:30|Lamezia Terme|-
+
+FR 6936|4
+-|Pisa|14:05
+15:40|Lamezia Terme|-
+
+FR 6936|5
+-|Pisa|10:50
+12:25|Lamezia Terme|-
+
+FR 8898|26
+-|Pisa|17:05
+18:40|Lamezia Terme|-
+
+HLR 202|67
+-|Pisa|14:30
+15:15|Marina di Campo|-
+
+FR 9994|37
+-|Pisa|09:50
+11:15|Palermo|-
+
+FR 9994|15
+-|Pisa|06:35
+08:00|Palermo|-
+
+FR 9994|246
+-|Pisa|10:00
+11:25|Palermo|-
+
+IV 235|7
+-|Pisa|10:55
+12:05|Palermo|-
+
+IV 235|1235
+-|Pisa|12:35
+13:45|Palermo|-
+
+IV 235|4
+-|Pisa|13:25
+14:35|Palermo|-
+
+IV 235|6
+-|Pisa|22:25
+23:35|Palermo|-
+
+AP 6165|2
+-|Pisa|07:10
+08:05|Roma Fiumicino|-
+
+AZ 1664|3
+-|Pisa|11:30
+12:25|Roma Fiumicino|-
+
+AZ 1668|12345
+-|Pisa|15:15
+16:10|Roma Fiumicino|-
+
+AZ 1670|1
+-|Pisa|19:15
+20:10|Roma Fiumicino|-
+
+FR 9986|137
+-|Pisa|06:35
+08:00|Trapani|-
+
+FR 9986|24
+-|Pisa|06:05
+07:30|Trapani|-
+
+FR 9986|5
+-|Pisa|07:10
+08:35|Trapani|-
+
+FR 9986|6
+-|Pisa|06:15
+07:35|Trapani|-
+
+FR 9988|12345
+-|Pisa|20:30
+21:55|Trapani|-
+
+FR 3596|1357
+-|Amburgo (Lubecca)|12:45
+14:40|Pisa|-
+
+FR 3596|26
+-|Amburgo (Lubecca)|12:05
+14:00|Pisa|-
+
+HV 5423|5
+-|Amsterdam|12:35
+14:30|Pisa|-
+
+HV 5423|7
+-|Amsterdam|14:30
+16:25|Pisa|-
+
+HV 5423|6
+-|Amsterdam|12:40
+14:35|Pisa|-
+
+HV 5423|1
+-|Amsterdam|12:15
+14:10|Pisa|-
+
+HV 5423|2
+-|Amsterdam|14:35
+16:30|Pisa|-
+
+HV 5423|3
+-|Amsterdam|14:00
+15:55|Pisa|-
+
+HV 5423|4
+-|Amsterdam|12:30
+14:25|Pisa|-
+
+HV 5423|234
+-|Amsterdam|12:00
+13:55|Pisa|-
+
+HV 5423|1
+-|Amsterdam|12:30
+14:25|Pisa|-
+
+HV 5423|6
+-|Amsterdam|14:05
+16:00|Pisa|-
+
+HV 5423|1234
+-|Amsterdam|12:00
+13:55|Pisa|-
+
+HV 5425|6
+-|Amsterdam|07:00
+08:55|Pisa|-
+
+VY 6134|1
+-|Barcellona|16:15
+17:50|Pisa|-
+
+VY 6134|1
+-|Barcellona|14:15
+15:50|Pisa|-
+
+VY 6134|1
+-|Barcellona|07:40
+09:15|Pisa|-
+
+FR 8862|1
+-|Barcellona (Girona)|17:25
+19:00|Pisa|-
+
+FR 8862|5
+-|Barcellona (Girona)|21:05
+22:40|Pisa|-
+
+FR 8862|5
+-|Barcellona (Girona)|21:05
+22:40|Pisa|-
+
+FR 9241|37
+-|Barcellona (Girona)|21:55
+23:15|Pisa|-
+
+FR 9241|156
+-|Barcellona (Girona)|22:10
+23:30|Pisa|-
+
+FR 9241|24
+-|Barcellona (Girona)|18:05
+19:25|Pisa|-
+
+LS 319|6
+-|Belfast|08:30
+12:10|Pisa|-
+
+LS 319|26
+-|Belfast|08:30
+12:10|Pisa|-
+
+LS 319|6
+-|Belfast|08:30
+12:10|Pisa|-
+
+U2 4577|7
+-|Berlino (Schoenefield)|07:40
+09:35|Pisa|-
+
+U2 4579|6
+-|Berlino (Schoenefield)|12:05
+14:00|Pisa|-
+
+U2 4579|123456
+-|Berlino (Schoenefield)|12:05
+14:00|Pisa|-
+
+U2 4581|123457
+-|Berlino (Schoenefield)|14:45
+16:40|Pisa|-
+
+U2 4581|7
+-|Berlino (Schoenefield)|14:45
+16:40|Pisa|-
+
+U2 4581|12345
+-|Berlino (Schoenefield)|14:45
+16:40|Pisa|-
+
+U2 4583|6
+-|Berlino (Schoenefield)|18:10
+20:05|Pisa|-
+
+FR 9332|1357
+-|Billund|21:50
+00:00|Pisa|-
+
+FR 9332|357
+-|Billund|21:50
+00:00|Pisa|-
+
+FR 9332|37
+-|Billund|21:50
+00:00|Pisa|-
+
+FR 5682|2
+-|Birmingham|16:40
+20:05|Pisa|-
+
+FR 5682|6
+-|Birmingham|16:10
+19:35|Pisa|-
+
+FR 564|3
+-|Bournemouth|12:10
+15:20|Pisa|-
+
+FR 564|6
+-|Bournemouth|11:20
+14:30|Pisa|-
+
+FR 9334|4
+-|Bratislava|11:35
+13:10|Pisa|-
+
+FR 9334|7
+-|Bratislava|16:55
+18:30|Pisa|-
+
+U2 6189|7
+-|Bristol|08:20
+11:30|Pisa|-
+
+U2 6189|123456
+-|Bristol|07:25
+10:35|Pisa|-
+
+FR 3745|12357
+-|Bruxelles (Charleroi)|10:30
+12:10|Pisa|-
+
+FR 3745|4
+-|Bruxelles (Charleroi)|10:10
+11:45|Pisa|-
+
+FR 3745|6
+-|Bruxelles (Charleroi)|06:30
+08:10|Pisa|-
+
+FR 3747|15
+-|Bruxelles (Charleroi)|22:15
+23:55|Pisa|-
+
+FR 3747|4
+-|Bruxelles (Charleroi)|19:20
+21:15|Pisa|-
+
+0B 905|5
+-|Bucarest|13:00
+15:10|Pisa|-
+
+0B 907|1
+-|Bucarest|17:00
+19:10|Pisa|-
+
+X3 3102|13
+-|Colonia-Bonn|20:45
+22:25|Pisa|-
+
+X3 3102|4
+-|Colonia-Bonn|19:25
+21:05|Pisa|-
+
+X3 3102|5
+-|Colonia-Bonn|20:00
+21:40|Pisa|-
+
+X3 3102|2
+-|Colonia-Bonn|19:25
+21:05|Pisa|-
+
+X3 3102|7
+-|Colonia-Bonn|20:20
+22:00|Pisa|-
+
+X3 3102|6
+-|Colonia-Bonn|15:35
+17:15|Pisa|-
+
+FR 9787|15
+-|Constanta|13:10
+14:40|Pisa|-
+
+DY 3620|3
+-|Copenaghen|09:00
+11:40|Pisa|-
+
+DY 3622|6
+-|Copenaghen|18:30
+21:10|Pisa|-
+
+HV 2765|24
+-|Copenaghen|08:40
+11:05|Pisa|-
+
+HV 2765|6
+-|Copenaghen|07:40
+10:05|Pisa|-
+
+FR 9908|37
+-|Dublino|20:05
+23:50|Pisa|-
+
+FR 9908|1
+-|Dublino|17:00
+20:45|Pisa|-
+
+FR 9908|246
+-|Dublino|19:40
+23:25|Pisa|-
+
+FR 9908|5
+-|Dublino|09:10
+12:55|Pisa|-
+
+FR 8053|1
+-|Dusseldorf-Weeze (Niederrhein)|11:50
+13:50|Pisa|-
+
+FR 8053|5
+-|Dusseldorf-Weeze (Niederrhein)|12:10
+14:20|Pisa|-
+
+FR 8897|246
+-|Dusseldorf-Weeze (Niederrhein)|14:15
+16:15|Pisa|-
+
+FR 1708|26
+-|East Midlands|13:15
+16:30|Pisa|-
+
+FR 1708|3
+-|East Midlands|15:50
+19:05|Pisa|-
+
+FR 1708|4
+-|East Midlands|12:40
+15:55|Pisa|-
+
+FR 2753|246
+-|Edimburgo|13:30
+17:15|Pisa|-
+
+LS 321|6
+-|Edimburgo|14:50
+18:30|Pisa|-
+
+LS 321|15
+-|Edimburgo|08:30
+12:10|Pisa|-
+
+FR 9924|2467
+-|Eindhoven|14:20
+16:10|Pisa|-
+
+FR 9924|15
+-|Eindhoven|12:20
+14:10|Pisa|-
+
+FR 9924|3
+-|Eindhoven|11:55
+13:45|Pisa|-
+
+FR 1234|135
+-|Francoforte (Hahn)|14:45
+16:10|Pisa|-
+
+FR 1234|246
+-|Francoforte (Hahn)|10:00
+11:25|Pisa|-
+
+FR 1234|7
+-|Francoforte (Hahn)|11:00
+12:25|Pisa|-
+
+FR 8887|5
+-|Francoforte (Hahn)|17:15
+18:40|Pisa|-
+
+FR 8887|1
+-|Francoforte (Hahn)|21:15
+22:40|Pisa|-
+
+FR 7846|1
+-|Glasgow (Prestwick)|07:05
+10:50|Pisa|-
+
+FR 7846|3
+-|Glasgow (Prestwick)|08:45
+12:30|Pisa|-
+
+FR 7846|6
+-|Glasgow (Prestwick)|06:20
+10:05|Pisa|-
+
+AY 797|5
+-|Helsinki|07:45
+10:00|Pisa|-
+
+AY 799|2
+-|Helsinki|15:55
+18:10|Pisa|-
+
+FR 8875|37
+-|Ibiza|13:30
+15:15|Pisa|-
+
+LS 367|7
+-|Leeds - Bradford|08:40
+12:05|Pisa|-
+
+LS 367|6
+-|Leeds - Bradford|07:00
+10:25|Pisa|-
+
+LS 367|4
+-|Leeds - Bradford|08:20
+11:45|Pisa|-
+
+LS 367|15
+-|Leeds - Bradford|11:30
+14:55|Pisa|-
+
+FR 8895|246
+-|Lilla|09:25
+11:25|Pisa|-
+
+U2 4163|6
+-|Lione|15:45
+16:55|Pisa|-
+
+U2 4163|3
+-|Lione|07:00
+08:10|Pisa|-
+
+FR 9626|37
+-|Liverpool|16:20
+19:35|Pisa|-
+
+FR 9626|1
+-|Liverpool|09:35
+12:50|Pisa|-
+
+FR 9626|246
+-|Liverpool|08:20
+11:35|Pisa|-
+
+BA 2600|1
+-|Londra (Gatwick)|08:10
+11:20|Pisa|-
+
+BA 2602|2
+-|Londra (Gatwick)|11:40
+14:50|Pisa|-
+
+BA 2605|3
+-|Londra (Gatwick)|17:35
+20:40|Pisa|-
+
+U2 5231|6
+-|Londra (Gatwick)|08:30
+11:35|Pisa|-
+
+U2 5233|7
+-|Londra (Gatwick)|12:30
+15:35|Pisa|-
+
+U2 5233|12345
+-|Londra (Gatwick)|11:15
+14:20|Pisa|-
+
+U2 5235|6
+-|Londra (Gatwick)|17:55
+21:00|Pisa|-
+
+U2 2303|6
+-|Londra (Luton)|06:15
+09:30|Pisa|-
+
+U2 2305|12345
+-|Londra (Luton)|08:35
+11:50|Pisa|-
+
+U2 2307|7
+-|Londra (Luton)|11:35
+14:50|Pisa|-
+
+FR 582|3
+-|Londra (Stansted)|11:20
+14:30|Pisa|-
+
+FR 584|4
+-|Londra (Stansted)|06:30
+09:45|Pisa|-
+
+FR 588|7
+-|Londra (Stansted)|18:15
+21:30|Pisa|-
+
+FR 588|1356
+-|Londra (Stansted)|19:00
+22:15|Pisa|-
+
+FR 588|24
+-|Londra (Stansted)|18:45
+21:50|Pisa|-
+
+FR 9354|3
+-|Maastricht|08:30
+10:10|Pisa|-
+
+FR 9354|5
+-|Maastricht|21:20
+23:00|Pisa|-
+
+FR 9354|7
+-|Maastricht|14:40
+16:20|Pisa|-
+
+IB 8824|4
+-|Madrid|09:50
+12:00|Pisa|-
+
+FR 9993|24
+-|Malta|18:45
+20:30|Pisa|-
+
+FR 9993|5
+-|Malta|18:20
+20:05|Pisa|-
+
+FR 9993|6
+-|Malta|18:45
+20:30|Pisa|-
+
+LS 883|2467
+-|Manchester|07:30
+11:00|Pisa|-
+
+LS 883|67
+-|Manchester|07:30
+11:00|Pisa|-
+
+FR 8877|37
+-|Marrakesh|19:00
+23:30|Pisa|-
+
+FR 8873|1357
+-|Memmingen|09:05
+10:45|Pisa|-
+
+LH/EN 4044|3
+-|Monaco|10:35
+12:10|Pisa|-
+
+LH/EN 4048|2
+-|Monaco|21:15
+22:50|Pisa|-
+
+DL 136|1
+-|New York (JFK)*|20:45
+11:40|Pisa|-
+
+LS 547|6
+-|Newcastle|07:50
+11:25|Pisa|-
+
+LS 547|7
+-|Newcastle|11:00
+14:30|Pisa|-
+
+DY 1866|13
+-|Oslo|10:05
+13:05|Pisa|-
+
+DY 1868|5
+-|Oslo|07:00
+10:05|Pisa|-
+
+FR 9312|246
+-|Oslo (Torp)|09:25
+12:10|Pisa|-
+
+FR 9312|7
+-|Oslo (Torp)|09:25
+12:10|Pisa|-
+
+FR 9977|7
+-|Parigi (Beauvais)|09:55
+11:35|Pisa|-
+
+FR 9977|134
+-|Parigi (Beauvais)|18:25
+20:05|Pisa|-
+
+FR 9977|25
+-|Parigi (Beauvais)|18:40
+20:20|Pisa|-
+
+FR 9977|6
+-|Parigi (Beauvais)|18:10
+19:50|Pisa|-
+
+AF 1066|1
+-|Parigi (Charles De Gaulle)|20:20
+22:05|Pisa|-
+
+AF 1566|2
+-|Parigi (Charles De Gaulle)|10:15
+12:00|Pisa|-
+
+AF 2166|123
+-|Parigi (Charles De Gaulle)|15:40
+17:25|Pisa|-
+
+U2 4209|7
+-|Parigi (Orly)|07:15
+08:50|Pisa|-
+
+U2 4209|6
+-|Parigi (Orly)|07:00
+08:35|Pisa|-
+
+U2 4209|6
+-|Parigi (Orly)|07:00
+08:35|Pisa|-
+
+U2 4209|12345
+-|Parigi (Orly)|06:15
+07:50|Pisa|-
+
+U2 4213|123457
+-|Parigi (Orly)|18:55
+20:30|Pisa|-
+
+U2 4213|7
+-|Parigi (Orly)|18:55
+20:30|Pisa|-
+
+U2 4213|12345
+-|Parigi (Orly)|18:50
+20:25|Pisa|-
+
+U2 4213|6
+-|Parigi (Orly)|18:55
+20:30|Pisa|-
+
+U2 4215|6
+-|Parigi (Orly)|18:15
+19:40|Pisa|-
+
+U2 4217|135
+-|Parigi (Orly)|15:00
+16:35|Pisa|-
+
+FR 6933|15
+-|Porto|15:55
+19:35|Pisa|-
+
+FR 9342|24
+-|Siviglia|12:50
+15:15|Pisa|-
+
+FR 9342|6
+-|Siviglia|20:45
+23:10|Pisa|-
+
+FR 1636|2
+-|Stoccolma (Skavsta)|17:25
+20:10|Pisa|-
+
+FR 1636|4
+-|Stoccolma (Skavsta)|13:00
+15:45|Pisa|-
+
+FR 1636|6
+-|Stoccolma (Skavsta)|16:55
+19:40|Pisa|-
+
+LZ 111|247
+-|Tirana|07:20
+09:00|Pisa|-
+
+LZ 111|6
+-|Tirana|07:20
+09:00|Pisa|-
+
+FR 9326|7
+-|Valencia|21:30
+23:30|Pisa|-
+
+FR 9326|135
+-|Valencia|17:50
+19:50|Pisa|-
+
+FR 8879|15
+-|Zara|13:05
+14:35|Pisa|-
+
+FR 9927|7
+-|Alghero|08:20
+09:25|Pisa|-
+
+FR 9927|145
+-|Alghero|07:55
+09:00|Pisa|-
+
+FR 9927|236
+-|Alghero|08:05
+09:10|Pisa|-
+
+FR 9929|2
+-|Alghero|22:20
+23:25|Pisa|-
+
+FR 9929|4
+-|Alghero|22:05
+23:10|Pisa|-
+
+FR 9945|1
+-|Alghero|22:45
+23:50|Pisa|-
+
+FR 9945|3
+-|Alghero|22:05
+23:10|Pisa|-
+
+FR 9945|5
+-|Alghero|22:20
+23:25|Pisa|-
+
+FR 9784|37
+-|Bari|08:05
+09:25|Pisa|-
+
+FR 9784|12456
+-|Bari|08:15
+09:35|Pisa|-
+
+FR 9789|246
+-|Bari|22:40
+00:00|Pisa|-
+
+FR 9932|157
+-|Cagliari|17:25
+18:50|Pisa|-
+
+FR 9932|246
+-|Cagliari|14:25
+15:50|Pisa|-
+
+FR 9932|3
+-|Cagliari|17:20
+18:45|Pisa|-
+
+FR 9934|246
+-|Cagliari|21:50
+23:10|Pisa|-
+
+IV 542|2
+-|Catania|07:00
+08:35|Pisa|-
+
+IV 546|1234
+-|Catania|19:30
+21:05|Pisa|-
+
+IV 546|5
+-|Catania|19:40
+21:15|Pisa|-
+
+IV 546|6
+-|Catania|16:00
+17:35|Pisa|-
+
+IV 546|7
+-|Catania|13:50
+15:25|Pisa|-
+
+FR 6937|7
+-|Lamezia Terme|12:00
+13:35|Pisa|-
+
+FR 6937|1
+-|Lamezia Terme|12:30
+14:05|Pisa|-
+
+FR 6937|3
+-|Lamezia Terme|14:55
+16:30|Pisa|-
+
+FR 6937|4
+-|Lamezia Terme|16:05
+17:40|Pisa|-
+
+FR 6937|5
+-|Lamezia Terme|12:50
+14:25|Pisa|-
+
+FR 8899|26
+-|Lamezia Terme|19:05
+20:40|Pisa|-
+
+HLR 201|67
+-|Marina di Campo|12:15
+13:00|Pisa|-
+
+FR 9995|37
+-|Palermo|11:40
+13:05|Pisa|-
+
+FR 9995|15
+-|Palermo|08:40
+10:05|Pisa|-
+
+FR 9995|246
+-|Palermo|11:50
+13:15|Pisa|-
+
+IV 234|7
+-|Palermo|08:50
+10:05|Pisa|-
+
+IV 234|1235
+-|Palermo|10:30
+11:45|Pisa|-
+
+IV 234|4
+-|Palermo|11:20
+12:35|Pisa|-
+
+IV 234|6
+-|Palermo|20:20
+21:35|Pisa|-
+
+AP 6170|1
+-|Roma Fiumicino|21:25
+22:20|Pisa|-
+
+AZ 1663|3
+-|Roma Fiumicino|09:50
+10:45|Pisa|-
+
+AZ 1667|12345
+-|Roma Fiumicino|13:45
+14:40|Pisa|-
+
+AZ 1669|4
+-|Roma Fiumicino|17:45
+18:40|Pisa|-
+
+FR 9987|137
+-|Trapani|08:25
+09:50|Pisa|-
+
+FR 9987|24
+-|Trapani|07:55
+09:20|Pisa|-
+
+FR 9987|5
+-|Trapani|09:00
+10:25|Pisa|-
+
+FR 9987|6
+-|Trapani|08:00
+09:20|Pisa|-
+
+FR 9989|12345
+-|Trapani|22:20
+23:35|Pisa|-

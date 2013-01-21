@@ -1,0 +1,207 @@
+FI054|1234567
+-|Pisa Centrale|01:12
+1:31|Cascina|1:31
+1:44|Pontedera|1:44
+2:20|Empoli|2:20
+2:49|Firenze S. M. Novella|-
+
+R6658|1234567
+-|Pisa Centrale|04:15
+04:24|Cascina|04:25
+04:30|Pontedera-Casciana Terme|04:31
+04:39|S. Romano-Montopoli-S. Croce|04:40
+04:44|S. Miniato-Fucecchio|04:45
+04:51|Empoli|04:52
+04:57|Montelupo-Capraia|04:58
+05:07|Signa|05:08
+05:13|Le Piagge|05:14
+05:20|Firenze Rifredi|05:21
+05:27|Firenze S. M. Novella|-
+
+R11700|1234567
+-|Pisa Centrale|05:19
+05:25|Navacchio|05:26
+05:29|S. Frediano A Settimo|05:30
+05:33|Cascina|05:34
+05:39|Pontedera-Casciana Terme|05:40
+05:48|S. Romano-Montopoli-S. Croce|05:49
+05:53|S. Miniato-Fucecchio|05:54
+06:00|Empoli|06:01
+06:06|Montelupo-Capraia|06:07
+06:18|Signa|06:19
+06:24|Le Piagge|06:25
+06:32|Firenze Rifredi|06:33
+06:38|Firenze S. M. Novella|-
+
+R11702|1234567
+-|Pisa Centrale|05:39
+05:50|Cascina|05:51
+05:56|Pontedera-Casciana Terme|05:57
+06:04|S. Romano-Montopoli-S. Croce|06:05
+06:09|S. Miniato-Fucecchio|06:10
+06:17|Empoli|06:18
+06:23|Montelupo-Capraia|06:24
+06:33|Signa|06:34
+06:46|Firenze Rifredi|06:47
+06:52|Firenze S. M. Novella|-
+
+R23375|1234567
+-|Pisa S. Rossore T.|05:53
+05:58|Pisa Centrale|06:01
+06:07|Navacchio|06:08
+06:10|S. Frediano A Settimo|06:11
+06:16|Cascina|06:17
+06:24|Pontedera-Casciana Terme|06:25
+06:33|S. Romano-Montopoli-S. Croce|06:34
+06:38|S. Miniato-Fucecchio|06:39
+06:46|Empoli|06:47
+06:52|Montelupo-Capraia|06:53
+07:02|Signa|07:03
+07:08|Le Piagge|07:09
+07:16|Firenze Rifredi|07:17
+07:23|Firenze S. M. Novella|-
+
+R23376|1234567
+-|Pisa Centrale|06:01
+06:07|Navacchio|06:08
+06:10|S. Frediano A Settimo|06:11
+06:16|Cascina|06:17
+06:24|Pontedera-Casciana Terme|06:25
+06:33|S. Romano-Montopoli-S. Croce|06:34
+06:38|S. Miniato-Fucecchio|06:39
+06:46|Empoli|06:47
+06:52|Montelupo-Capraia|06:53
+07:02|Signa|07:03
+07:08|Le Piagge|07:09
+07:16|Firenze Rifredi|07:17
+07:23|Firenze S. M. Novella|-
+
+R3100|1234567
+-|Pisa Centrale|06:38
+06:52|Pontedera-Casciana Terme|06:53
+07:08|Empoli|07:09
+07:19|Lastra A Signa|07:20
+07:31|Firenze Rifredi|07:32
+07:37|Firenze S. M. Novella|-
+
+R23400|1234567
+-|Pisa Centrale|06:54
+07:09|Pontedera-Casciana Terme|07:10
+07:21|S. Miniato-Fucecchio|07:22
+07:30|Empoli|07:31
+07:44|Signa|07:45
+07:56|Firenze Rifredi|07:57
+08:03|Firenze S. M. Novella|-
+
+R11708|1234567
+-|Pisa Centrale|07:01
+07:07|Navacchio|07:08
+07:10|S. Frediano A Settimo|07:11
+07:16|Cascina|07:17
+07:24|Pontedera-Casciana Terme|07:25
+07:33|S. Romano-Montopoli-S. Croce|07:34
+07:38|S. Miniato-Fucecchio|07:39
+07:46|Empoli|07:47
+07:52|Montelupo-Capraia|07:53
+08:02|Signa|08:03
+08:08|Le Piagge|08:09
+08:16|Firenze Rifredi|08:17
+08:23|Firenze S. M. Novella|-
+
+R23377|1234567
+-|Pisa S. Rossore T.|07:28
+07:37|Pisa Centrale|07:40
+07:53|Pontedera-Casciana Terme|07:54
+08:06|S. Miniato-Fucecchio|08:07
+08:13|Empoli|08:14
+08:27|Signa|08:28
+08:39|Firenze Rifredi|08:40
+08:47|Firenze S. M. Novella|-
+
+R3102|1234567
+-|Pisa Centrale|07:29
+07:44|Pontedera-Casciana Terme|07:45
+08:01|Empoli|08:02
+08:13|Lastra A Signa|08:14
+08:27|Firenze Rifredi|08:28
+08:33|Firenze S. M. Novella|-
+
+R3103|1234567
+-|Firenze S. M. Novella|05:35
+05:39|Firenze Rifredi|05:40
+05:50|Lastra A Signa|05:51
+06:01|Empoli|06:02
+06:08|S. Miniato-Fucecchio|06:09
+06:13|S. Romano-Montopoli-S. Croce|06:14
+06:23|Pontedera-Casciana Terme|06:24
+06:40|Pisa Centrale|-
+
+R11701|1234567
+-|Firenze S. M. Novella|00:37
+00:42|Firenze Rifredi|00:43
+00:48|Le Piagge|00:49
+00:54|Signa|00:55
+01:05|Montelupo-Capraia|01:06
+01:13|Empoli|01:14
+01:20|S. Miniato-Fucecchio|01:21
+01:26|S. Romano-Montopoli-S. Croce|01:27
+01:35|Pontedera-Casciana Terme|01:36
+01:42|Cascina|01:43
+01:46|S. Frediano A Settimo|01:47
+01:50|Navacchio|01:51
+01:59|Pisa Centrale|-
+
+R11703|1234567
+-|Firenze S. M. Novella|04:30
+04:35|Firenze Rifredi|04:36
+04:41|Le Piagge|04:42
+04:47|Signa|04:48
+04:58|Montelupo-Capraia|04:59
+05:05|Empoli|05:06
+05:12|S. Miniato-Fucecchio|05:13
+05:18|S. Romano-Montopoli-S. Croce|05:19
+05:27|Pontedera-Casciana Terme|05:28
+05:34|Cascina|05:35
+05:38|S. Frediano A Settimo|05:39
+05:42|Navacchio|05:43
+05:52|Pisa Centrale|-
+
+R3040|1234567
+-|Firenze S. M. Novella|06:05
+06:10|Firenze Rifredi|06:11
+06:17|Sesto Fiorentino|06:18
+06:26|Prato Centrale|06:27
+06:28|Prato Porta Al Serraglio|06:29
+06:37|Montale-Agliana|06:38
+06:43|Pistoia|06:44
+06:48|Serravalle Pistoiese|06:49
+06:54|Montecatini Terme-Monsummano|06:55
+07:02|Montecatini Centro|07:03
+07:08|Borgo A Buggiano|07:13
+07:20|Pescia|07:25
+07:32|Altopascio|07:33
+07:37|Porcari|07:41
+07:44|Tassignano-Capannori|07:45
+07:51|Lucca|07:55
+08:01|Ripafratta|08:02
+08:07|Rigoli|08:08
+08:11|S. Giuliano Terme|08:12
+08:17|Pisa S. Rossore|08:19
+08:25|Pisa Centrale|-
+
+R11705|1234567
+-|Firenze S. M. Novella|06:10
+06:15|Firenze Rifredi|06:16
+06:24|Le Piagge|06:25
+06:30|Signa|06:31
+06:40|Montelupo-Capraia|06:41
+06:46|Empoli|06:47
+06:53|S. Miniato-Fucecchio|06:54
+06:59|S. Romano-Montopoli-S. Croce|07:00
+07:07|Pontedera-Casciana Terme|07:08
+07:14|Cascina|07:15
+07:18|S. Frediano A Settimo|07:19
+07:22|Navacchio|07:23
+07:32|Pisa Centrale|07:40
+07:41|Pisa S. Rossore T.|-
+

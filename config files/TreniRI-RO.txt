@@ -1,0 +1,151 @@
+IC579|1234567
+-|Firenze S. M. Novella|05:50
+05:55|Firenze Campo Di Marte|05:57
+06:29|Arezzo|06:30
+06:49|Terontola-Cortona|06:50
+07:08|Chiusi-Chianciano Terme|07:10
+07:29|Orvieto|07:31
+08:24|Roma Termini|-
+
+EN235|1234567
+-|Firenze S. M. Novella|06:30
+07:30|Chiusi-Chianciano Terme|07:32
+07:55|Orvieto|07:57
+09:05|Roma Termini|-
+
+AV9421|1234567
+-|Firenze S. M. Novella|06:40
+07:12|Arezzo|07:14
+08:29|Roma Termini|-
+
+R2305|1234567
+-|Firenze S. M. Novella|06:45
+06:50|Firenze Campo Di Marte|06:51
+07:06|Figline Valdarno|07:07
+07:13|S. Giovanni Valdarno|07:14
+07:19|Montevarchi-Terranuova|07:20
+07:45|Arezzo|07:46
+07:58|Castiglion Fiorentino|07:59
+08:05|Camucia-Cortona|08:06
+08:11|Terontola-Cortona|08:12
+08:19|Castiglione Del Lago|08:20
+08:32|Chiusi-Chianciano Terme|08:38
+08:48|Fabro-Ficulle|08:49
+09:04|Orvieto|09:05
+09:18|Alviano|09:19
+09:27|Attigliano-Bomarzo|09:28
+09:39|Orte|09:43
+10:50|Roma Tiburtina|10:52
+11:00|Roma Termini|-
+
+AV9423|1234567
+-|Firenze S. M. Novella|07:49
+09:29|Roma Termini|-
+
+ES9311|1234567
+-|Firenze S. M. Novella|08:24
+10:00|Roma Termini|-
+
+AV9425|1234567
+-|Firenze S. M. Novella|08:49
+10:29|Roma Termini|-
+
+R2307|1234567
+-|Firenze S. M. Novella|09:13
+09:19|Firenze Campo Di Marte|09:20
+09:36|Figline Valdarno|09:37
+09:42|S. Giovanni Valdarno|09:43
+09:48|Montevarchi-Terranuova|09:49
+10:13|Arezzo|10:14
+10:26|Castiglion Fiorentino|10:27
+10:33|Camucia-Cortona|10:34
+10:39|Terontola-Cortona|10:40
+10:47|Castiglione Del Lago|10:48
+10:59|Chiusi-Chianciano Terme|11:01
+11:10|Fabro-Ficulle|11:11
+11:26|Orvieto|11:27
+11:40|Alviano|11:41
+11:49|Attigliano-Bomarzo|11:50
+12:00|Orte|12:02
+12:44|Roma Tiburtina|12:46
+12:54|Roma Termini|-
+
+ICN7502|1234567
+-|Roma Tiburtina|04:28
+06:30|Firenze Campo Di Marte|-
+
+R2304|1234567
+-|Roma Termini|05:57
+06:03|Roma Tiburtina|06:05
+06:40|Orte|06:42
+06:53|Attigliano-Bomarzo|06:54
+07:01|Alviano|07:02
+07:15|Orvieto|07:16
+07:32|Fabro-Ficulle|07:33
+07:45|Chiusi-Chianciano Terme|07:50
+08:03|Castiglione Del Lago|08:04
+08:13|Terontola-Cortona|08:14
+08:19|Camucia-Cortona|08:20
+08:27|Castiglion Fiorentino|08:28
+08:39|Arezzo|08:40
+09:07|Montevarchi-Terranuova|09:08
+09:12|S. Giovanni Valdarno|09:13
+09:19|Figline Valdarno|09:20
+09:38|Firenze Campo Di Marte|09:39
+09:47|Firenze S. M. Novella|-
+
+E834|1234567
+-|Roma Tiburtina|06:13
+09:08|Firenze Campo Di Marte|-
+
+AV9426|1234567
+-|Roma Termini|06:30
+08:09|Firenze S. M. Novella|-
+
+IC578|1234567
+-|Roma Termini|06:35
+07:11|Orte|07:13
+07:43|Orvieto|07:45
+08:07|Chiusi-Chianciano Terme|08:09
+08:30|Terontola-Cortona|08:32
+08:55|Arezzo|08:57
+09:38|Firenze S. M. Novella|-
+
+ES9462|1234567
+-|Roma Termini|06:50
+08:27|Firenze S. M. Novella|-
+
+R2306|1234567
+-|Roma Termini|06:57
+07:03|Roma Tiburtina|07:05
+07:40|Orte|07:42
+07:53|Attigliano-Bomarzo|07:54
+08:01|Alviano|08:02
+08:15|Orvieto|08:16
+08:32|Fabro-Ficulle|08:33
+08:45|Chiusi-Chianciano Terme|08:55
+09:11|Castiglione Del Lago|09:12
+09:20|Terontola-Cortona|09:21
+09:33|Camucia-Cortona|09:34
+09:41|Castiglion Fiorentino|09:42
+09:56|Arezzo|09:57
+10:38|Firenze Campo Di Marte|10:39
+10:47|Firenze S. M. Novella|-
+
+AV9428|1234567
+-|Roma Termini|07:30
+09:09|Firenze S. M. Novella|-
+
+AV9430|1234567
+-|Roma Termini|08:30
+10:09|Firenze S. M. Novella|-
+
+IC582|1234567
+-|Roma Termini|08:41
+09:20|Orte|09:22
+09:48|Orvieto|09:50
+10:11|Chiusi-Chianciano Terme|10:13
+10:51|Arezzo|10:53
+11:33|Firenze Rifredi|-
+
+

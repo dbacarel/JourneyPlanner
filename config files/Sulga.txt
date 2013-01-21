@@ -1,0 +1,36 @@
+Sulga|123456
+-|Roma Tiburtina|9:00
+10:10|Roma FCO|-
+
+Sulga|17
+-|Roma Tiburtina|10:00
+10:40|Roma FCO|-
+
+Sulga|123456
+-|Roma Tiburtina|10:30
+11:10|Roma FCO|-
+
+Sulga|7
+-|Roma Tiburtina|11:00
+11:40|Roma FCO|-
+
+Sulga|123456
+-|Roma FCO|9:00
+10:30|Roma Tiburtina|-
+
+SulgA|1234567
+-|Roma FCO|12:30
+14:00|Roma Tiburtina|-
+
+Sulga|123456
+-|Roma FCO|14:30
+16:00|Roma Tiburtina|-
+
+Sulga|7
+-|Roma FCO|16:30
+18:00|Roma Tiburtina|-
+
+Sulga|123456
+-|Roma FCO|17:00
+18:30|Roma Tiburtina|-
+

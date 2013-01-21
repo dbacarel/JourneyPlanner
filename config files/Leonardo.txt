@@ -1,0 +1,280 @@
+M3277|1234567
+-|Roma FCO|6:36 
+7:07|Roma Termini|-
+
+M3279|1234567
+-|Roma FCO|7:06 
+7:37|Roma Termini|-
+
+M3281|1234567
+-|Roma FCO|7:36 
+8:07|Roma Termini|-
+
+M3283|1234567
+-|Roma FCO|8:06 
+8:37|Roma Termini|-
+
+M3285|1234567
+-|Roma FCO|8:36 
+9:07|Roma Termini|-
+
+M3287|1234567
+-|Roma FCO|9:06 
+9:37|Roma Termini|-
+
+M3289|1234567
+-|Roma FCO|9:36 
+10:07|Roma Termini|-
+
+M3291|1234567
+-|Roma FCO|10:06 
+10:37|Roma Termini|-
+
+M3293|1234567
+-|Roma FCO|10:36 
+11:07|Roma Termini|-
+
+M3295|1234567
+-|Roma FCO|11:06 
+11:37|Roma Termini|-
+
+M3297|1234567
+-|Roma FCO|11:36 
+12:07|Roma Termini|-
+
+M3299|1234567
+-|Roma FCO|12:06 
+12:37|Roma Termini|-
+
+M3301|1234567
+-|Roma FCO|12:36 
+13:07|Roma Termini|-
+
+M3303|1234567
+-|Roma FCO|13:06 
+13:37|Roma Termini|-
+
+M3305|1234567
+-|Roma FCO|13:36 
+14:07|Roma Termini|-
+
+M3307|1234567
+-|Roma FCO|14:06 
+14:37|Roma Termini|-
+
+M3309|1234567
+-|Roma FCO|14:36 
+15:07|Roma Termini|-
+
+M3311|1234567
+-|Roma FCO|15:06 
+15:37|Roma Termini|-
+
+M3313|1234567
+-|Roma FCO|15:36 
+16:07|Roma Termini|-
+
+M3315|1234567
+-|Roma FCO|16:06 
+16:37|Roma Termini|-
+
+M3317|1234567
+-|Roma FCO|16:36 
+17:07|Roma Termini|-
+
+M3319|1234567
+-|Roma FCO|17:06 
+17:37|Roma Termini|-
+
+M3321|1234567
+-|Roma FCO|17:36 
+18:07|Roma Termini|-
+
+M3323|1234567
+-|Roma FCO|18:06 
+18:37|Roma Termini|-
+
+M3325|1234567
+-|Roma FCO|18:36 
+19:07|Roma Termini|-
+
+M3327|1234567
+-|Roma FCO|19:06 
+19:37|Roma Termini|-
+
+M3329|1234567
+-|Roma FCO|19:36 
+20:07|Roma Termini|-
+
+M3331|1234567
+-|Roma FCO|20:06 
+20:37|Roma Termini|-
+
+M3333|1234567
+-|Roma FCO|20:36 
+21:07|Roma Termini|-
+
+M3335|1234567
+-|Roma FCO|21:06 
+21:37|Roma Termini|-
+
+M3337|1234567
+-|Roma FCO|21:36 
+22:07|Roma Termini|-
+
+M3339|1234567
+-|Roma FCO|22:06 
+22:37|Roma Termini|-
+
+M3341|1234567
+-|Roma FCO|22:36 
+23:07|Roma Termini|-
+
+M3343|1234567
+-|Roma FCO|23:06 
+23:37|Roma Termini|-
+
+M3345|1234567
+-|Roma FCO|23:36 
+0:07|Roma Termini|-
+
+M3276|1234567
+-|Roma Termini|5:52 
+6:23|Roma FCO|-
+
+M3278|1234567
+-|Roma Termini|6:22 
+6:53|Roma FCO|-
+
+M3280|1234567
+-|Roma Termini|6:52 
+7:23|Roma FCO|-
+
+M3282|1234567
+-|Roma Termini|7:22 
+7:53|Roma FCO|-
+
+M3284|1234567
+-|Roma Termini|7:52 
+8:23|Roma FCO|-
+
+M3286|1234567
+-|Roma Termini|8:22 
+8:53|Roma FCO|-
+
+M3288|1234567
+-|Roma Termini|8:52 
+9:23|Roma FCO|-
+
+M3290|1234567
+-|Roma Termini|9:22 
+9:53|Roma FCO|-
+
+M3292|1234567
+-|Roma Termini|9:52 
+10:23|Roma FCO|-
+
+M3294|1234567
+-|Roma Termini|10:22 
+10:53|Roma FCO|-
+
+M3296|1234567
+-|Roma Termini|10:52 
+11:23|Roma FCO|-
+
+M3298|1234567
+-|Roma Termini|11:22 
+11:53|Roma FCO|-
+
+M3300|1234567
+-|Roma Termini|11:52 
+12:23|Roma FCO|-
+
+M3302|1234567
+-|Roma Termini|12:22 
+12:53|Roma FCO|-
+
+M3304|1234567
+-|Roma Termini|12:52 
+13:23|Roma FCO|-
+
+M3306|1234567
+-|Roma Termini|13:22 
+13:53|Roma FCO|-
+
+M3308|1234567
+-|Roma Termini|13:52 
+14:23|Roma FCO|-
+
+M3310|1234567
+-|Roma Termini|14:22 
+14:53|Roma FCO|-
+
+M3312|1234567
+-|Roma Termini|14:52 
+15:23|Roma FCO|-
+
+M3314|1234567
+-|Roma Termini|15:22 
+15:53|Roma FCO|-
+
+M3316|1234567
+-|Roma Termini|15:52 
+16:23|Roma FCO|-
+
+M3318|1234567
+-|Roma Termini|16:22 
+16:53|Roma FCO|-
+
+M3320|1234567
+-|Roma Termini|16:52 
+17:23|Roma FCO|-
+
+M3322|1234567
+-|Roma Termini|17:22 
+17:53|Roma FCO|-
+
+M3324|1234567
+-|Roma Termini|17:52 
+18:23|Roma FCO|-
+
+M3326|1234567
+-|Roma Termini|18:22 
+18:53|Roma FCO|-
+
+M3328|1234567
+-|Roma Termini|18:52 
+19:23|Roma FCO|-
+
+M3330|1234567
+-|Roma Termini|19:22 
+19:53|Roma FCO|-
+
+M3332|1234567
+-|Roma Termini|19:52 
+20:23|Roma FCO|-
+
+M3334|1234567
+-|Roma Termini|20:22 
+20:53|Roma FCO|-
+
+M3336|1234567
+-|Roma Termini|20:52 
+21:23|Roma FCO|-
+
+M3338|1234567
+-|Roma Termini|21:22 
+21:53|Roma FCO|-
+
+M3340|1234567
+-|Roma Termini|21:52 
+22:23|Roma FCO|-
+
+M3342|1234567
+-|Roma Termini|22:22 
+22:53|Roma FCO|-
+
+M3344|1234567
+-|Roma Termini|22:52 
+23:23|Roma FCO|-
+

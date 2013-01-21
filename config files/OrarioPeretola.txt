@@ -1,0 +1,68 @@
+IG3461|124567
+-|Firenze|21:15
+22:20|Cagliari|-
+
+IG3461|3
+-|Firenze|22:25
+23:30|Cagliari|-
+
+IG3491|1234567
+-|Firenze|13:35
+15:00|Catania|-
+
+IG3415|14567
+-|Firenze|17:50
+18:45|Olbia|-
+
+IG3481|123457
+-|Firenze|16:30
+17:45|Palermo|-
+
+AZ1676|1234567
+-|Firenze|7:10
+8:05|Roma FCO|-
+
+AZ1678|1234567
+-|Firenze|11:35
+12:30|Roma FCO|-
+
+AZ1682|123457
+-|Firenze|15:05
+16:00|Roma FCO|-
+
+AZ1684|1234567
+-|Firenze|19:15
+20:10|Roma FCO|-
+
+IG3462|1234567
+-|Cagliari|8:40
+9:45|Firenze|-
+
+IG3492|1234567
+-|Catania|15:45
+17:20|Firenze|-
+
+IG3416|14567
+-|Olbia|19:30
+20:25|Firenze|-
+
+IG3482|123457
+-|Palermo|14:20
+15:35|Firenze|-
+
+AZ1675|1234567
+-|Roma FCO|9:50
+10:50|Firenze|-
+
+AZ1677|123457
+-|Roma FCO|13:20
+14:20|Firenze|-
+
+AZ1679|1234567
+-|Roma FCO|17:30
+18:30|Firenze|-
+
+AZ1681|1234567
+-|Roma FCO|21:25
+22:25|Firenze|-
+
